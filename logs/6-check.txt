@@ -1,0 +1,5 @@
+before down
+{"greeting": "Hello, Igor!", "count": 1, "hostname": "da812898d0b2", "storage": "sqlite"}
+
+after up
+{"greeting": "Hello, Igor!", "count": 1, "hostname": "efd8ea62c50e", "storage": "sqlite"}
